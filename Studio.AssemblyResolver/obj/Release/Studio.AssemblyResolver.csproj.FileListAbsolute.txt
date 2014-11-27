@@ -1,0 +1,5 @@
+C:\Work\Git\Studio AssemblyResolver\Studio.AssemblyResolver\bin\Release\Studio.AssemblyResolver.dll
+C:\Work\Git\Studio AssemblyResolver\Studio.AssemblyResolver\bin\Release\Studio.AssemblyResolver.pdb
+C:\Work\Git\Studio AssemblyResolver\Studio.AssemblyResolver\obj\Release\Studio.AssemblyResolver.csprojResolveAssemblyReference.cache
+C:\Work\Git\Studio AssemblyResolver\Studio.AssemblyResolver\obj\Release\Studio.AssemblyResolver.dll
+C:\Work\Git\Studio AssemblyResolver\Studio.AssemblyResolver\obj\Release\Studio.AssemblyResolver.pdb
