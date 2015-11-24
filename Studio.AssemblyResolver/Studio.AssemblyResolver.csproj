@@ -41,12 +41,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyResolver.cs" />
+    <Compile Include="PathResolver\AbstractRegistryPathResolver.cs" />
     <Compile Include="PathResolver\Implementation\CascadePathResolver.cs" />
     <Compile Include="PathResolver\Implementation\DefaultStudio2011PathResolver.cs" />
     <Compile Include="PathResolver\Implementation\DefaultStudio2014PathResolver.cs" />
     <Compile Include="PathResolver\Implementation\DefaultPathSpecification.cs" />
+    <Compile Include="PathResolver\Implementation\DefaultStudio2015PathResolver.cs" />
     <Compile Include="PathResolver\Implementation\RegistryStudio2011PathResolver.cs" />
     <Compile Include="PathResolver\Implementation\RegistryStudio2014PathResolver.cs" />
+    <Compile Include="PathResolver\Implementation\RegistryStudio2015PathResolver.cs" />
     <Compile Include="PathResolver\IPathResolver.cs" />
     <Compile Include="PathResolver\IPathSpecification.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
