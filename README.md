@@ -7,6 +7,10 @@ This library is build to help SDL Studio developers who are wokring on standalon
 
 Studio-AssemblyResolver is available on [NuGet](https://www.nuget.org/packages/Studio.AssemblyResolver/).
 
+```
+Install-Package Studio.AssemblyResolver
+```
+
 ##How it works?
 
 The library uses [AppDomain](http://msdn.microsoft.com/en-us/library/system.appdomain%28v=vs.110%29.aspx) class to obtain the current domain and register to AssemblyResolve event. This event is triggered for each assembly that is needed by the application. The library has also a mechanism to resolve the path to the Studio installation folder. Once it determines the Studio installation path is looking in that place after the required assembly.
