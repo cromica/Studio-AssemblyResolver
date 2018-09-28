@@ -206,3 +206,5 @@ packaging/
 
 # FAKE temporary files
 .fake/
+sh.exe.stackdump
+*.bkp

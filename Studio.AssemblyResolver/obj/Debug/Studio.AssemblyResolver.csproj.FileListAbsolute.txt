@@ -3,3 +3,9 @@ C:\Work\Git\Studio.AssemblyResolver\Studio.AssemblyResolver\bin\Debug\Studio.Ass
 C:\Work\Git\Studio.AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.csprojResolveAssemblyReference.cache
 C:\Work\Git\Studio.AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.dll
 C:\Work\Git\Studio.AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.pdb
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\bin\Debug\Studio.AssemblyResolver.dll
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\bin\Debug\Studio.AssemblyResolver.pdb
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.csprojAssemblyReference.cache
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.csproj.CoreCompileInputs.cache
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.dll
+C:\Work\Git\Studio-AssemblyResolver\Studio.AssemblyResolver\obj\Debug\Studio.AssemblyResolver.pdb
