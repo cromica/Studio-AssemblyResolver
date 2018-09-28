@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net46;net472</TargetFrameworks>
+    <TargetFrameworks>net452;net46;net47;net472</TargetFrameworks>
     <Authors>Romulus Crisan</Authors>
     <Company />
     <Product>Studio Assembly Resolver</Product>
     <Description>A library that resolves Trados Studio assemblied dependencies at runtime. Used for developing standalone applications on top of Trados Studio APIs.</Description>
-    <Version>0.2.1</Version>
+    <Version>0.2.2</Version>
     <PackageLicenseUrl>https://github.com/cromica/Studio-AssemblyResolver</PackageLicenseUrl>
     <PackageTags>Trados Studio</PackageTags>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
