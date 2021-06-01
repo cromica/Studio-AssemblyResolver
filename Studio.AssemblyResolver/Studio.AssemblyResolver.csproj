@@ -11,7 +11,7 @@
     <PackageTags>Trados Studio</PackageTags>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Copyright>Copyright ©  2018</Copyright>
+    <Copyright>Copyright ©  2021</Copyright>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
