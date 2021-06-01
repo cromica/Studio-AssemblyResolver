@@ -7,7 +7,7 @@
     <Product>Studio Assembly Resolver</Product>
     <Description>A library that resolves Trados Studio assemblied dependencies at runtime. Used for developing standalone applications on top of Trados Studio APIs.</Description>
     <Version>0.2.3</Version>
-    <PackageLicenseUrl>https://github.com/cromica/Studio-AssemblyResolver</PackageLicenseUrl>
+    <PackageLicense>https://github.com/cromica/Studio-AssemblyResolver/blob/master/LICENSE</PackageLicense>
     <PackageTags>Trados Studio</PackageTags>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
