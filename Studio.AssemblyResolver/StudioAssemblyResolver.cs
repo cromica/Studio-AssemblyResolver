@@ -36,6 +36,8 @@ namespace Studio.AssemblyResolver
                 Specification = new DefaultPathSpecification(),
                 Nodes = _resolvers.Concat(new IPathResolver[]
                 {
+                    new DefaultStudio2021PathResolver(),
+                    new RegistryStudio2021PathResolver(),
                     new DefaultStudio2019PathResolver(),
                     new RegistryStudio2019PathResolver(),
                     new DefaultStudio2017PathResolver(), 
