@@ -36,5 +36,11 @@ jobs:
       - name: Restore NuGet Packages
         run: nuget restore Studio.AssemblyResolver.sln
         
-      - name: Build and Publish Web App
+      - name: Build
         run: msbuild Studio.AssemblyResolver.sln /p:Configuration=Release
+        
+      - uses: actions/upload-artifact@v2
+        with:
+          name: nuget-package
+          path: /**/*.nupkg
+ 
